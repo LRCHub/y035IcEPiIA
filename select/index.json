@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "君の恋人になったら",
+  "base_artist": "back number",
+  "createdAt": "2025-12-07T16:19:04.168634Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の恋人になったら",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_君の恋人になったら_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の恋人になったら - Kimino Koibitoni Nattara",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_君の恋人になったら_-_Kimino_Koibitoni_Nattara_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の恋人になったら",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_君の恋人になったら_back_number.txt"
+    }
+  ]
+}
